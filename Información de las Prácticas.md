@@ -1,4 +1,9 @@
-# PracticasInsVir
-Prácticas para la materia de Instrumentación Virtual.
+# Practicas Instrumentación Virtual
 
-P01 | Estructura de control e indicadores gráficos. Alexis García, Abner David, Israel Herrera.
+## Integrantes del equipo
+
+- Alexis García Nieves
+- Abner David Ramos García
+- **Nombre completo del tercer integrante**
+
+P01 | Estructura de control e indicadores gráficos.
